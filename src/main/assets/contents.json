@@ -1,0 +1,21 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Beelzebub Stickers",
+      "publisher": "KshitijKumar",
+      "tray_image_file": "Beelzebub.png",
+      "publisher_email":"kkghoshit@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": ""
+        }
+      ]
+    }
+  ]
+}
