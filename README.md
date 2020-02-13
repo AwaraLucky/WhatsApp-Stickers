@@ -1,4 +1,2 @@
 # WhatsApp-Stickers
-Stickers for WhatsApp
-
-This app has Stickers of various Categories.
+Sample source to make your own WhatsApp Stickers App.
